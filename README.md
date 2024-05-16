@@ -85,7 +85,8 @@ This project provides RESTful API endpoints for managing hospitals, psychiatrist
      - Set URL to `https://hospital-route.onrender.com/api/v1/patient`
      - Click Send
 
-Please note that all endpoints require proper authentication and authorization.
 
+---
+VISHAL , vishal20120073623@gmail.com / vishal_ug20@nsut.ac.in
 
 
